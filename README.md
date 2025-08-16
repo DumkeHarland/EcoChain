@@ -951,5 +951,4 @@ This project was developed for [Hackathon Name] and demonstrates:
 
 - ✅ **Innovation**: Combining IoT, AI, and blockchain for carbon credits
 - ✅ **Technical Excellence**: Full-stack Web3 application with smart contracts
-- ✅ **Real-world Impact**: Addressing climate change through technology
--
+- ✅ **Real-world Impact**: Addressing climate change through technology (Is it true?)
